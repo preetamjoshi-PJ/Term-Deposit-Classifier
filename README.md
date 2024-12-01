@@ -44,5 +44,4 @@ Here is the description of all the variables :
 
 ## How good are your predictions?
 
-Evaluation Metric
-The Evaluation metric for this competition is accuracy.
+**Evaluation Metric:** The Evaluation metric for this competition is accuracy.
